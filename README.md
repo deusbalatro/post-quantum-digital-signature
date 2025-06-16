@@ -14,6 +14,9 @@ Anyway.
 [Click Here](https://youtu.be/YVVr91kPQzQ)
 
 
+![Demo](https://raw.githubusercontent.com/deusbalatro/post-quantum-digital-signature/main/demo.gif)
+
+
 #### USAGE:
 
 When you want to sign a file, you do `sign ~/example/dir/file.ext`.
