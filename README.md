@@ -1,4 +1,4 @@
-## Quantum Resistant Digital Signature Program
+## Quantum Resistant Digital Signature Program in C
 
 
 This program generates a unique [quantum resistant](https://en.wikipedia.org/wiki/Post-quantum_cryptography) signature for given file.
